@@ -1,4 +1,4 @@
-package class_cloader;
+package class_loader.loader_test;
 
 /**
  * Created by zhuyanan on 17/8/28.
